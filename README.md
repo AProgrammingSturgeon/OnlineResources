@@ -32,7 +32,7 @@ Microsoft Office Support https://support.microsoft.com/zh-cn/office?ui=zh-cn&rs=
 
 【汉字】漢典网 https://www.zdic.net/
 
-【字典（英语）】https://www.merriam-webster.com, https://www.ldoceonline.com
+【字典（英语）】https://www.merriam-webster.com, https://www.ldoceonline.com, http://www.funkandwagnalls.com/
 
 【同义词】https://www.powerthesaurus.org/, Ask Difference https://www.askdifference.com/
 
