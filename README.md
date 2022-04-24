@@ -92,6 +92,8 @@ Ancestry® | Genealogy, Family Trees & Family History Records https://www.ancest
 
 【艺术品】Fine Art America https://fineartamerica.com/, https://www.artsy.net/
 
+【閱讀】
+（電子書）书伴 https://bookfere.com, https://my.clippings.io
 # ------------------下载------------------
 
 【软件】（macOS）https://macwk.com/, 马可菠萝 https://www.macbl.com/, 腾讯柠檬精选 https://lemon.qq.com/lab/, https://www.better365.cn/, 每日精品限免/促销应用 https://app.so/xianmian/
