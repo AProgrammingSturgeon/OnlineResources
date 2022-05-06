@@ -26,7 +26,7 @@ Microsoft Office Support https://support.microsoft.com/zh-cn/office?ui=zh-cn&rs=
 
 【emoji含义】https://emojipedia.org/
 
-
+【缩写的全称】FullForms https://fullforms.com
 
 ## 「语言相关」
 
