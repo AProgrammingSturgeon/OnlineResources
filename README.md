@@ -1,6 +1,6 @@
 # OnlineResources
 
-# ------------------查询------------------
+# ------------------查询&获取知识------------------
 
 ## 「知识相关」
 
@@ -54,7 +54,7 @@ Microsoft Office Support https://support.microsoft.com/zh-cn/office?ui=zh-cn&rs=
 
 【古诗古文】古诗文网 https://www.gushiwen.org/, 国学经典查询 https://5000yan.com/
 
-
+【Art History】https://smarthistory.org
 
 【文学】
 
