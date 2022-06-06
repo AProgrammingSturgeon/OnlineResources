@@ -22,7 +22,10 @@
 
 【教程 - 当然去Google/Youtube一般都能搞定】
 
-Microsoft Office Support https://support.microsoft.com/zh-cn/office?ui=zh-cn&rs=zh-cn&ad=cn, Affinity Publisher tutorials https://affinity.serif.com/en-us/tutorials/publisher/desktop/
+- Microsoft Office Support https://support.microsoft.com/zh-cn/office?ui=zh-cn&rs=zh-cn&ad=cn
+- Affinity Publisher tutorials https://affinity.serif.com/en-us/tutorials/publisher/desktop/
+- Fusion 360 https://help.autodesk.com/view/fusion360/ENU/courses/
+- 
 
 【emoji含义】https://emojipedia.org/
 
@@ -30,9 +33,13 @@ Microsoft Office Support https://support.microsoft.com/zh-cn/office?ui=zh-cn&rs=
 
 ## 「语言相关」
 
-【汉字】漢典网 https://www.zdic.net/
+【字典】
 
-【字典（英语）】https://www.merriam-webster.com, https://www.ldoceonline.com, http://www.funkandwagnalls.com/
+（汉字）漢典网 https://www.zdic.net/
+
+（英语）https://www.merriam-webster.com, https://www.ldoceonline.com, http://www.funkandwagnalls.com/
+
+（其他）https://glosbe.com/
 
 【同义词】https://www.powerthesaurus.org/, Ask Difference https://www.askdifference.com/
 
@@ -48,27 +55,24 @@ Microsoft Office Support https://support.microsoft.com/zh-cn/office?ui=zh-cn&rs=
 
 【其他】https://omniglot.com/index.htm, Word Nerd Index https://lawhimsy.com/word-nerd-index/
 
-
-
 ## 「Humanities」
 
 【古诗古文】古诗文网 https://www.gushiwen.org/, 国学经典查询 https://5000yan.com/
 
 【Art History】https://smarthistory.org
 
-【文学】
-
-（一家之言）https://www.cliffsnotes.com/literature
-
-（资料）Folger Shakespeare Library https://www.folger.edu/
-
-【诗歌】Poetry Foundation https://www.poetryfoundation.org/
-
 【人物传记】https://www.biography.com
 
 【历史】Ancient History Encyclopedia https://www.ancient.eu/, https://www.worldhistory.org/
 
+###【外国文学】
 
+（资料）
+- Yale University Library https://collections.library.yale.edu/, Beinecke Rare Book & Manuscript Library https://beinecke.library.yale.edu/
+- Shakespeare: Folger Shakespeare Library https://www.folger.edu/
+
+（诗歌）Poetry Foundation https://www.poetryfoundation.org/
+（评论）https://www.cliffsnotes.com/literature
 
 ## 「其他」
 
@@ -94,6 +98,8 @@ Ancestry® | Genealogy, Family Trees & Family History Records https://www.ancest
 
 【閱讀】
 （電子書）书伴 https://bookfere.com, https://my.clippings.io
+（书评）https://www.goodreads.com/
+
 # ------------------下载------------------
 
 【软件】（macOS）https://macwk.com/, 马可菠萝 https://www.macbl.com/, 腾讯柠檬精选 https://lemon.qq.com/lab/, https://www.better365.cn/, 每日精品限免/促销应用 https://app.so/xianmian/
@@ -103,7 +109,7 @@ Ancestry® | Genealogy, Family Trees & Family History Records https://www.ancest
 
 【书籍】
 
-General：（查询）https://www.goodreads.com/ （下载）Zlibrary https://book4you.org/, http://libgen.gs/, https://www.gutenberg.org/, https://onlinebooks.library.upenn.edu/, Oxford Academic https://academic.oup.com/journals
+Zlibrary https://book4you.org/, http://libgen.gs/, https://www.gutenberg.org/, https://onlinebooks.library.upenn.edu/, Oxford Academic https://academic.oup.com/journals
 
 分领域：https://www.oecd-ilibrary.org/, 中国哲学书电子化计划 https://ctext.org/zhs
 
@@ -141,4 +147,8 @@ General：（查询）https://www.goodreads.com/ （下载）Zlibrary https://bo
 
 【课程查询】https://www.coursade.com/
 
-【平台 - besides Youtube & Bilibili】https://courses.edx.org/dashboard, https://www.coursera.org/, https://www.masterclass.com/, https://www.icourse163.org/, MIT OpenCourseWare https://ocw.mit.edu/, https://brilliant.org/courses/, https://www.toastmasters.org/
+【平台 - besides Youtube & Bilibili】
+（综合）
+- 硬核：edX https://courses.edx.org/dashboard, https://www.coursera.org/, Open Yale Courses https://oyc.yale.edu/courses, Yale Online https://online.yale.edu/courses?filterItemType=all&searchTitle=&selectedSubjects=&selectedTypes=&selectedCredentials=&selectedFees=&viewMode=grid, MIT OpenCourseWare https://ocw.mit.edu/, 
+- 其他：https://www.masterclass.com/, https://www.icourse163.org/, https://brilliant.org/courses/, 
+（演讲技能）https://www.toastmasters.org/
