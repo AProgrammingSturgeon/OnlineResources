@@ -143,7 +143,7 @@ Zlibrary https://book4you.org/, http://libgen.gs/, https://www.gutenberg.org/, h
 
 【LaTeX书写器】Online LaTeX Equation Editor https://latex.codecogs.com/eqneditor/editor.php
 
-# ------------------上课------------------
+# ------------------课程学习------------------
 
 【课程查询】https://www.coursade.com/
 
@@ -152,3 +152,4 @@ Zlibrary https://book4you.org/, http://libgen.gs/, https://www.gutenberg.org/, h
 - 硬核：edX https://courses.edx.org/dashboard, https://www.coursera.org/, Open Yale Courses https://oyc.yale.edu/courses, Yale Online https://online.yale.edu/courses?filterItemType=all&searchTitle=&selectedSubjects=&selectedTypes=&selectedCredentials=&selectedFees=&viewMode=grid, MIT OpenCourseWare https://ocw.mit.edu/, 
 - 其他：https://www.masterclass.com/, https://www.icourse163.org/, https://brilliant.org/courses/, 
 （演讲技能）https://www.toastmasters.org/
+（Coding）https://www.codecademy.com/learn
